@@ -1,29 +1,41 @@
-name: dennyink.com
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.61169
 title: 'Denny, ink. '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  brandStrength: 0.4375
+  lightness: 0.5
+  brandColors:
+    - '#91BDE8'
+    - '#021F80'
+    - '#9A020C'
+    - '#05040D'
+    - '#6E7791'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: dennyink
   facebook: null
-  twitter: null
+favicon: null
+name: dennyink.com
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#abb6c0'
-    - '#ae937a'
-    - '#1a1005'
-    - '#546e80'
-    - '#e2ae71'
-  brandStrength: 0.4375
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.8136201
+layout_spectrum: 0
