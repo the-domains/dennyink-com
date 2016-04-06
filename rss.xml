@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Denny, ink. Brand Communication]]></title>
-        <description><![CDATA[Denny, ink. Brand Communication]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Denny, ink. ]]></title>
+        <description><![CDATA[Denny, ink. ]]></description>
+        <link>http://www.dennyink.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 03:20:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 04:36:12 GMT</lastBuildDate>
+        <atom:link href="http://www.dennyink.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Brands we are currently representing include:</p>]]></description>
+            <link>http://www.dennyink.com/brands-we-are-currently-representing-include/index.html</link>
+            <guid isPermaLink="false">31d353a1-3669-488e-bc94-94963671e8a8</guid>
+            <pubDate>Wed, 06 Apr 2016 04:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d495ef5-30fc-4db0-a1a0-8a796f02a05c.jpg">]]></description>
-            <link>undefinedplease-excuse-this-mess-but-our-website-got-hacked-and-this/index.html</link>
+            <link>http://www.dennyink.com/please-excuse-this-mess-but-our-website-got-hacked-and-this/index.html</link>
             <guid isPermaLink="false">79c33c6c-fffd-42b4-8034-98d86504bc20</guid>
             <pubDate>Wed, 06 Apr 2016 03:20:25 GMT</pubDate>
         </item>
