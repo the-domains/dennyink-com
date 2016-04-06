@@ -1,7 +1,7 @@
 name: dennyink.com
 favicon: null
-layout_spectrum: 0.12427414325065911
-typography_spectrum: 0.7330782418139279
+layout_spectrum: 1
+typography_spectrum: 0.61169
 title: 'Denny, ink. '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#1a1005'
     - '#546e80'
     - '#e2ae71'
-  brandStrength: 0.4305726857855916
-  lightness: 0.42403366207145154
-  saturation: 0.3160599081311375
-  rhythmicContrast: 0.5936745039653033
+  brandStrength: 0.4375
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
