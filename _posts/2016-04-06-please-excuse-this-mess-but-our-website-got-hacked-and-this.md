@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Please excuse the mess, but our website just got hacked and this is a temporary page until we figure out how to get the Propecia™ ads from popping up. \_Just give us a call instead and we'll connect in real time. 307.200.6001"
-datePublished: '2016-04-07T15:51:57.367Z'
-dateModified: '2016-04-07T15:51:34.896Z'
+datePublished: '2016-04-07T15:52:29.248Z'
+dateModified: '2016-04-07T15:52:06.832Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-please-excuse-this-mess-but-our-website-got-hacked-and-this.md
