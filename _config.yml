@@ -1,7 +1,7 @@
 name: dennyink.com
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
+layout_spectrum: 0.50483
+typography_spectrum: 0.50049
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1d4b98'
-    - '#498ae4'
-    - '#ffffff'
-    - '#f0382c'
-    - '#826d34'
-  brandStrength: 0.4375
-  lightness: 0.5625
+    - '#2e2b26'
+    - '#c33521'
+    - '#e0ded2'
+    - '#ec7459'
+    - '#a39a91'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
